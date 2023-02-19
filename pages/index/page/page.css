@@ -1,0 +1,11 @@
+.page {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-image: url(../../../pics/background.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
